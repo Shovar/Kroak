@@ -45,5 +45,5 @@
 	Video demostración de 1 minuto donde se ven las funcionalidades principales del juego.
 
 ## Creadores:
-- Shovar
-- OrfeoDK
+- Toni García
+- Moisés Campillo
