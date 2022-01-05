@@ -1,0 +1,34 @@
+TILEMAP
+36 28 							-- Size of tile map in tiles
+16 16 							-- Tile size & block size
+images/blocks.png 	-- Tilesheet
+8 7 								-- Number of tiles in tilesheet
+                                    
+                                    
+                                    
+                                    
+                                    
+       P                            
+      AC                            
+      IK            P               
+      IK         ABBBBC    ABZZC    
+      IK       [ IJJJJK    IJJJK    
+      IK [    ABBJJJJJK    IJJJK    
+      IJBC    hhhhhhhhh             
+      IJJK                          
+                                    
+       [P         [      P[         
+      ABBBBBBBBBBBBBBBBBBBBC        
+      IJJJJJJJJJJJJJJJJJJJJK        
+      abbbbbbbbbbbbbbbbbbbbc        
+      ijjjjjbbjjjbbjjjjjjRRk        
+       H  Y ik   ik   HY            
+                  H                 
+      ik                            
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+
